@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-5rr58n.wedang77land.store/sitemap.xml
